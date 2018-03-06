@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3BDBC379-0C1E-487F-AD0D-86694B774E69}|Default">
+  <MonoDevelop.Ide.ItemProperties.calculator.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculator/Calculator1.cs">
+    <Files>
+      <File FileName="calculator/packages.config" Line="4" Column="2" />
+      <File FileName="calculator/calculator.cs" Line="7" Column="13" />
+      <File FileName="calculator/Calculator1.cs" Line="140" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.calculator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E8D3A3A9-693B-4F2F-9C47-3949784CB051">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.calculator.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
